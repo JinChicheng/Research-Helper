@@ -276,8 +276,7 @@ Content-Type: application/json
 ## 联系方式
 
 如有问题或建议，欢迎通过以下方式联系：
-- 邮箱：[your-email@example.com]
-- GitHub：[your-github-repo]
+- 邮箱：892630237@qq.com
 
 ---
 
