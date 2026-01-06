@@ -1,0 +1,93 @@
+2025-11-10 14:41:22,896 - src.crawlers.base_crawler - INFO - 正在收集关键词 'RAG' 的论文...
+2025-11-10 14:41:38,896 - src.crawlers.base_crawler - INFO - 成功下载论文: Modular RAG: Transforming RAG Systems into LEGO-like Reconfigurable
+  Frameworks
+2025-11-10 14:41:56,179 - src.crawlers.base_crawler - INFO - 成功下载论文: RAG-Stack: Co-Optimizing RAG Quality and Performance From the Vector
+  Database Perspective
+2025-11-10 14:42:08,054 - src.crawlers.base_crawler - INFO - 成功下载论文: RAG-Instruct: Boosting LLMs with Diverse Retrieval-Augmented
+  Instructions
+2025-11-10 14:45:44,340 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-11-10 14:45:44,383 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+2025-11-10 14:45:44,387 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event CollectionGetEvent: capture() takes 1 positional argument but 3 were given
+2025-11-10 14:51:05,473 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-11-10 14:51:05,481 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event CollectionGetEvent: capture() takes 1 positional argument but 3 were given
+2025-11-10 14:53:29,287 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-11-10 14:58:05,920 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-11-10 14:58:05,924 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event CollectionGetEvent: capture() takes 1 positional argument but 3 were given
+2025-11-10 15:14:29,281 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-11-10 15:14:29,288 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event CollectionGetEvent: capture() takes 1 positional argument but 3 were given
+2025-11-10 15:14:41,022 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event CollectionAddEvent: capture() takes 1 positional argument but 3 were given
+2025-11-10 15:27:54,955 - src.crawlers.base_crawler - INFO - 正在收集关键词 'RAG' 的论文...
+2025-11-10 15:27:57,828 - src.crawlers.base_crawler - INFO - 成功下载论文: Modular RAG: Transforming RAG Systems into LEGO-like Reconfigurable
+  Frameworks
+2025-11-10 15:27:59,394 - src.crawlers.base_crawler - INFO - 成功下载论文: RAG-Stack: Co-Optimizing RAG Quality and Performance From the Vector
+  Database Perspective
+2025-11-10 15:28:02,480 - src.crawlers.base_crawler - INFO - 成功下载论文: RAG-Instruct: Boosting LLMs with Diverse Retrieval-Augmented
+  Instructions
+2025-11-10 15:28:47,381 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-11-10 15:28:47,419 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+2025-11-10 15:28:47,421 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event CollectionGetEvent: capture() takes 1 positional argument but 3 were given
+2025-11-10 15:29:07,920 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event CollectionAddEvent: capture() takes 1 positional argument but 3 were given
+2025-11-10 15:32:31,374 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-11-10 15:32:31,577 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given
+2025-11-10 15:37:22,511 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-11-10 15:38:11,762 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-11-10 15:38:12,027 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given
+2025-11-10 15:39:06,626 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-11-10 15:39:06,630 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event CollectionGetEvent: capture() takes 1 positional argument but 3 were given
+2025-11-10 15:43:07,976 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-11-10 15:43:07,982 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event CollectionGetEvent: capture() takes 1 positional argument but 3 were given
+2025-11-10 15:43:30,615 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-11-10 15:43:30,808 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given
+2025-11-10 15:48:31,557 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-11-10 15:48:31,729 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given
+2025-11-10 15:49:59,200 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-11-10 15:51:05,974 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-11-10 15:52:27,256 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-11-10 15:52:27,476 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given
+2025-11-10 15:54:47,479 - src.crawlers.base_crawler - INFO - 正在收集关键词 'LLM' 的论文...
+2025-11-10 15:54:49,520 - src.crawlers.base_crawler - INFO - 成功下载论文: Trustworthy and Efficient LLMs Meet Databases
+2025-11-10 15:54:50,597 - src.crawlers.base_crawler - INFO - 成功下载论文: Large Language Models as Software Components: A Taxonomy for
+  LLM-Integrated Applications
+2025-11-10 15:54:51,991 - src.crawlers.base_crawler - INFO - 成功下载论文: Parrot: Efficient Serving of LLM-based Applications with Semantic
+  Variable
+2025-11-10 16:03:35,830 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-11-10 16:03:35,837 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event CollectionGetEvent: capture() takes 1 positional argument but 3 were given
+2025-11-10 16:04:20,354 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-11-10 16:04:20,757 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given
+2025-11-10 16:12:54,229 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-11-10 16:12:54,400 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given
+2025-11-10 16:29:55,213 - src.crawlers.base_crawler - INFO - 正在收集关键词 'large language models' 的论文...
+2025-11-10 16:30:00,294 - src.crawlers.base_crawler - INFO - 成功下载论文: Lost in Translation: Large Language Models in Non-English Content
+  Analysis
+2025-11-10 16:30:02,325 - src.crawlers.base_crawler - INFO - 成功下载论文: Cedille: A large autoregressive French language model
+2025-11-10 16:30:04,754 - src.crawlers.base_crawler - INFO - 成功下载论文: How Good are Commercial Large Language Models on African Languages?
+2025-11-10 16:30:06,223 - src.crawlers.base_crawler - INFO - 成功下载论文: Goldfish: Monolingual Language Models for 350 Languages
+2025-11-10 16:30:07,896 - src.crawlers.base_crawler - INFO - 成功下载论文: Modelling Language
+2025-11-10 16:59:13,863 - src.crawlers.base_crawler - INFO - 正在收集关键词 'Retrieval-Augmented Generation' 的论文...
+2025-11-10 16:59:16,495 - src.crawlers.base_crawler - INFO - 成功下载论文: Generalized Baer and Generalized Quasi-Baer Rings of Skew Generalized
+  Power Series
+2025-11-10 16:59:17,962 - src.crawlers.base_crawler - INFO - 成功下载论文: On generalized topological groups
+2025-11-10 16:59:17,962 - src.crawlers.base_crawler - INFO - 正在收集关键词 'Natural Language Processing' 的论文...
+2025-11-10 16:59:20,763 - src.crawlers.base_crawler - INFO - 成功下载论文: Natural Language Processing using Hadoop and KOSHIK
+2025-11-10 16:59:25,489 - src.crawlers.base_crawler - INFO - 成功下载论文: Integrating AI Planning with Natural Language Processing: A Combination
+  of Explicit and Tacit Knowledge
+2025-11-10 16:59:25,489 - src.crawlers.base_crawler - INFO - 正在收集关键词 'Language Models' 的论文...
+2025-11-10 16:59:28,701 - src.crawlers.base_crawler - INFO - 成功下载论文: Goldfish: Monolingual Language Models for 350 Languages
+2025-11-10 16:59:32,311 - src.crawlers.base_crawler - INFO - 成功下载论文: Counterfactually Probing Language Identity in Multilingual Models
+2025-11-10 16:59:32,311 - src.crawlers.base_crawler - INFO - 正在收集关键词 'Information Retrieval' 的论文...
+2025-11-10 16:59:36,661 - src.crawlers.base_crawler - INFO - 成功下载论文: R^2AG: Incorporating Retrieval Information into Retrieval Augmented
+  Generation
+2025-11-10 16:59:55,717 - src.crawlers.base_crawler - INFO - 正在收集关键词 'Contextual Generation' 的论文...
+2025-11-10 17:00:00,681 - src.crawlers.base_crawler - INFO - 成功下载论文: Contextually indexed contextual categories
+2025-11-10 17:00:03,075 - src.crawlers.base_crawler - INFO - 成功下载论文: Contextuality versus Incompatibility
+2025-11-10 17:00:03,075 - src.crawlers.base_crawler - INFO - 正在收集关键词 'Deep Learning' 的论文...
+2025-11-10 17:00:07,249 - src.crawlers.base_crawler - INFO - 成功下载论文: Opening the black box of deep learning
+2025-11-10 17:00:08,881 - src.crawlers.base_crawler - INFO - 成功下载论文: Concept-Oriented Deep Learning
+2025-11-10 17:01:18,439 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-11-10 17:01:18,448 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event CollectionGetEvent: capture() takes 1 positional argument but 3 were given
+2025-11-10 17:01:39,477 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-11-10 17:01:39,521 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+2025-11-10 17:01:39,524 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event CollectionGetEvent: capture() takes 1 positional argument but 3 were given
+2025-11-10 17:01:50,633 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event CollectionAddEvent: capture() takes 1 positional argument but 3 were given
+2025-11-10 17:03:12,115 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-11-10 17:03:12,283 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given
